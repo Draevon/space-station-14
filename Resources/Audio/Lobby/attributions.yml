@@ -1,4 +1,4 @@
-﻿- files: ["thunderdome.ogg"]
+- files: ["thunderdome.ogg"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "-Sector11 by MashedByMachines. Converted from MP3 to OGG."
   source: "https://www.newgrounds.com/audio/listen/312622"
@@ -68,3 +68,19 @@
   license: "CC-BY-NC-SA-3.0"
   copyright: "every light is blinking at once by Alexander Divine."
   source: "https://soundcloud.com/alexanderdivine/every-light-is-blinking-at-once"
+
+- files: ["Space_Station_13_Dwarf_Fortress_Intro.ogg"]
+  license: "Custom"
+  copyright: "Asteroid Theme by Toady One."
+  source: "https://youtu.be/6jrVgXlGK0c?si=nL4uIe_z_nCXeutX"
+
+- files: ["ClownIntro.ogg"]
+  license: "Custom"
+  copyright: "Clown.wmv by Admiral Hippie."
+  source: "https://youtu.be/9whQIbNmu9s?si=XI34NEUSjF14hsG-"
+
+- files: ["Dagothwave.ogg"]
+  license: "Custom"
+  copyright: "Dagothwave by youngscrolls."
+  source: "https://youtu.be/XqaZSqUNZY0?si=mW03rEXDIjv58zzF"
+
